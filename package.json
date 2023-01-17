@@ -1,0 +1,19 @@
+{
+  "name": "biker",
+  "version": "0.0.0",
+  "description": "Data scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b1i/biker.git"
+  },
+  "author": "b1i",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b1i/biker/issues"
+  },
+  "homepage": "https://github.com/b1i/biker#readme"
+}
